@@ -1,4 +1,4 @@
-module github.com/goodbigtree/redis-watcher/v2
+module github.com/goodbigtree/redis-watcher
 
 go 1.20
 
